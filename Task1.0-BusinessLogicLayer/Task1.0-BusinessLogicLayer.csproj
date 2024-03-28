@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Task1._0_BusinessLogicLayer</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Task1.0-DataAccessLayer\Task1.0-DataAccessLayer.csproj" />
+      <ProjectReference Include="..\Task1.0-EntityLayer\Task1.0-EntityLayer.csproj" />
+    </ItemGroup>
+
+</Project>

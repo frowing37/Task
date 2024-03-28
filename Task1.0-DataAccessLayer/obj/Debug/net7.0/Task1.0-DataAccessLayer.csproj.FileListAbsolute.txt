@@ -1,0 +1,17 @@
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.deps.json
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-EntityLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-EntityLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.csproj.AssemblyReference.cache
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.AssemblyInfoInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.AssemblyInfo.cs
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.csproj.CopyComplete
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/refint/Task1.0-DataAccessLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/ref/Task1.0-DataAccessLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.runtimeconfig.json
+/Users/frowing/Projects/Task1.0/Task1.0-DataAccessLayer/obj/Debug/net7.0/Task1.0-DataAccessLayer.genruntimeconfig.cache

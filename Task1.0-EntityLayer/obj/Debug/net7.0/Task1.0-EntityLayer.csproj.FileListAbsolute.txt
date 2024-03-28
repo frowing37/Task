@@ -1,0 +1,12 @@
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/bin/Debug/net7.0/Task1.0-EntityLayer.deps.json
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/bin/Debug/net7.0/Task1.0-EntityLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/bin/Debug/net7.0/Task1.0-EntityLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.csproj.AssemblyReference.cache
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.AssemblyInfoInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.AssemblyInfo.cs
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.csproj.CoreCompileInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/refint/Task1.0-EntityLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/Task1.0-EntityLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-EntityLayer/obj/Debug/net7.0/ref/Task1.0-EntityLayer.dll

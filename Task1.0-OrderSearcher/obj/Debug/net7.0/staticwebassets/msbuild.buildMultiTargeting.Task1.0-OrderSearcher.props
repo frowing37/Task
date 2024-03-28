@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Task1.0-OrderSearcher.props" />
+</Project>

@@ -1,0 +1,17 @@
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-BusinessLogicLayer.deps.json
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-BusinessLogicLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-BusinessLogicLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-EntityLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-DataAccessLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/bin/Debug/net7.0/Task1.0-EntityLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.csproj.AssemblyReference.cache
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.AssemblyInfoInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.AssemblyInfo.cs
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.csproj.CopyComplete
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/refint/Task1.0-BusinessLogicLayer.dll
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/Task1.0-BusinessLogicLayer.pdb
+/Users/frowing/Projects/Task1.0/Task1.0-BusinessLogicLayer/obj/Debug/net7.0/ref/Task1.0-BusinessLogicLayer.dll

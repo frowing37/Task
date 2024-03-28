@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Task1._0_OrderSaver</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.14"/>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Task1.0-BusinessLogicLayer\Task1.0-BusinessLogicLayer.csproj" />
+      <ProjectReference Include="..\Task1.0-DataAccessLayer\Task1.0-DataAccessLayer.csproj" />
+      <ProjectReference Include="..\Task1.0-EntityLayer\Task1.0-EntityLayer.csproj" />
+    </ItemGroup>
+
+</Project>
